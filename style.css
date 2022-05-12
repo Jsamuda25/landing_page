@@ -201,6 +201,14 @@ a{
     color: white;
   
   }
+.caption-text{
+    white-space: nowrap;
+}
+
+.caption{
+
+    white-space: nowrap;
+}
 
 .pushup-link, 
 .squat-link,
@@ -208,4 +216,12 @@ a{
 .deadlift-link
 {
     text-align: center;
+}
+
+#wrapper{
+    margin-left:auto;
+    margin-right: auto;
+    width: max-content;
+    height: max-content;
+
 }
